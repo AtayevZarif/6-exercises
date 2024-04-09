@@ -1,11 +1,11 @@
 // 1
 
-let twoNumbers = (a,b) =>{
-    console.log(a);
-    console.log(b);
-}
+// let twoNumbers = (a,b) =>{
+//     console.log(a);
+//     console.log(b);
+// }
 
-twoNumbers(3,5)
+// twoNumbers(3,5)
 
 
 // 2
